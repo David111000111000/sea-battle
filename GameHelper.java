@@ -27,7 +27,7 @@ public class GameHelper {
 
 
 
-    public ArrayList<String> placeDotCom(int comSize) {                 // line 19
+    public ArrayList<String> placeDotCom(int comSize) {                 
         ArrayList<String> alphaCells = new ArrayList<String>();
         String [] alphacoords = new String [comSize];      // держит координаты
         String temp = null;                                // важная строчка!
