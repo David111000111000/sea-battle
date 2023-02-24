@@ -77,7 +77,7 @@ public class GameHelper {
             alphaCells.add(temp.concat(Integer.toString(row)));
             x++;
 
-             System.out.println("  coord "+x+" = " + alphaCells.get(x-1)); //ЧИТЫ НА БРАВЛ СТАРС
+             //System.out.println("  coord "+x+" = " + alphaCells.get(x-1)); //ЧИТЫ НА БРАВЛ СТАРС
 
         }
         // System.out.println("\n"); ЧИТЫ НА БРАВЛ СТАРС
